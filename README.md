@@ -21,7 +21,7 @@ I'm a **Data Engineer** passionate about turning raw data into meaningful insigh
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cegeka.com%2Fen%2Fsolutions%2Fdata-ai%2Fdatabricks&psig=AOvVaw0sFmXlb67y-nI3EoiOPba9&ust=1754605062002000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCND1ia6b944DFQAAAAAdAAAAABAE" alt="databricks" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/>
